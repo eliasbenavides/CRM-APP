@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Elias",
+      "empresa": "Avicola Trinos",
+      "email": "elias02d2@gmail.com",
+      "telefono": "87905451",
+      "notas": "Engorde de Pollo",
+      "id": 1
+    }
+  ]
+}
